@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🏦 SecureBank Console ATM
 
-# Run and deploy your AI Studio app
+A Java-based console ATM banking system designed to simulate basic real-world banking operations.
 
-This contains everything you need to run your app locally.
+## 📌 About the Project
 
-View your app in AI Studio: https://ai.studio/apps/a6620b6a-9b6b-4212-9a0b-c00279916045
+SecureBank Console ATM is a simple banking application built using Java. It provides users with essential ATM functionalities through a console-based interface.
 
-## Run Locally
+The project demonstrates important Java concepts such as Object-Oriented Programming, classes and objects, methods, encapsulation, and transaction handling.
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- 👤 User registration and login
+- 💰 Check account balance
+- 💵 Deposit money
+- 🏧 Withdraw money
+- 🔐 Secure user authentication
+- 📋 Transaction handling
+- 💾 Data storage
+- 🖥️ Simple console-based interface
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Technologies Used
+
+- Java
+- Object-Oriented Programming
+- File Handling
+- Console Application
+
+## 📂 Project Structure
+
+```text
+securebank-console-atm/
+│
+├── java/
+│   ├── ATM.java
+│   ├── Account.java
+│   ├── Bank.java
+│   ├── Main.java
+│   └── Transaction.java
+│
+├── src/
+│   └── ...
+│
+├── metadata.json
+├── README.md
+└── pom.xml / package.json
