@@ -1,0 +1,6 @@
+{
+  "name": "ATM Interface - Java Console Simulation",
+  "description": "Interactive console-based simulation and complete 5-class OOP Java codebase for an ATM machine with authentication, transactions, and balance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
